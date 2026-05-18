@@ -1,0 +1,13 @@
+langgraph
+pydantic
+IPython
+ipykernel
+grandalf
+langchain-google-genai 
+geopy
+requests
+python-dotenv
+langchain
+langchain-core
+langgraph-prebuilt
+langchain-community
