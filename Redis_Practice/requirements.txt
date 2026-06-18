@@ -1,0 +1,9 @@
+langchain-google-genai
+pydantic
+langgraph
+python-dotenv
+langchain
+langchain-core
+langchain-community
+langgraph-checkpoint-redis
+redis
