@@ -11,3 +11,13 @@ langchain
 langchain-core
 langgraph-prebuilt
 langchain-community
+ddgs
+duckduckgo-search
+chromadb
+langchain-chroma
+faiss-cpu
+sentence-transformers
+langsmith
+docx2txt 
+pypdf
+unstructured
